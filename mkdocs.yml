@@ -1,0 +1,8 @@
+site_name: Final Portfolio
+theme: 
+  name: slate
+nav:
+  - Home: 'index.md'
+  - Artifact 1 - Google: 'Google.md'
+  - Artifact 2 - Serpentina: 'Serpentina.md'
+  - Artifact 3 - Backgmmon: 'Backgammon.md'
